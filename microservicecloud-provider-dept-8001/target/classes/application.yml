@@ -34,6 +34,6 @@ eureka:
 info:
   app.name: medo-microservicecloud
   company.name: www.medo.com
-  build.artifactId: $project.artifactId$
-  build.version: $project.version$
+  build.artifactId: microservicecloud-provider-dept-8001
+  build.version: 0.0.1-SNAPSHOT
 
